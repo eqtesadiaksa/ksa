@@ -1,0 +1,74 @@
+{
+    "country": 
+    
+   { 
+    "counrry_id": 1,
+    "name_ar": "السعودية",
+    "name_en" : "Saudi Arabia",
+    "abbreviation":"SA",
+   
+   "cities": [
+        {
+            "city_id": 1,
+            "region_id": 7,
+            "name_ar": "تبوك",
+            "name_en": "Tabuk"
+          },
+          {
+            "city_id": 3,
+            "region_id": 1,
+            "name_ar": "الرياض",
+            "name_en": "Riyadh"
+          },
+          {
+            "city_id": 5,
+            "region_id": 2,
+            "name_ar": "الطائف",
+            "name_en": "At Taif"
+          },
+          {
+            "city_id": 6,
+            "region_id": 2,
+            "name_ar": "مكة المكرمة",
+            "name_en": "Makkah"
+          },
+          {
+            "city_id": 13,
+            "region_id": 5,
+            "name_ar": "الدمام",
+            "name_en": "Dammam"
+          },
+          {
+            "city_id": 14,
+            "region_id": 3,
+            "name_ar": "المدينة المنورة",
+            "name_en": "Madinah"
+          },
+          {
+            "city_id": 17,
+            "region_id": 10,
+            "name_ar": "جازان",
+            "name_en": "Jazan"
+          },
+          {
+            "city_id": 18,
+            "region_id": 2,
+            "name_ar": "جدة",
+            "name_en": "Jeddah"
+          },
+          {
+            "city_id": 227,
+            "region_id": 5,
+            "name_ar": "الظهران",
+            "name_en": "Dhahran"
+          },
+          {
+            "city_id": 113,
+            "region_id": 5,
+            "name_ar": "الجبيل",
+            "name_en": "Al Jubail"
+          }
+
+    ]
+}
+}
